@@ -1,4 +1,4 @@
-#1. Print text
+#1. Print text 
 print ("hello sanjay")
 
 #2.Variables
@@ -73,21 +73,21 @@ print(add(3, 4))
 text = "Python"
 print(len(text))
 
-#17. String uppercase
+#17. String  uppercase
 text = "python"
 print(text.upper())
 
-#18. Check membership
+#18. Check  membership
 fruits = ["apple", "banana"]
 print("apple" in fruits)
 
-#19. Try–except
+#19. Try–except 
 try:
     x = int("abc")
 except ValueError:
     print("Conversion error")
 
-#20. Import a module
+#20. Import  a module 
 import math
 print(math.sqrt(16))
 
